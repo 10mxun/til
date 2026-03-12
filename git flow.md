@@ -35,6 +35,6 @@
 
 <hr>
 
-[Image] : https://devocean.sk.com/editorImg/2024/8/21/6e8114c0510c505512467f476426cc89303e0de5cdd5dc1c9e95d6e3bc538f62
+![ ](https://devocean.sk.com/editorImg/2024/8/21/6e8114c0510c505512467f476426cc89303e0de5cdd5dc1c9e95d6e3bc538f62)
 
 
