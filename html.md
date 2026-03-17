@@ -87,3 +87,6 @@
   - main 태그는 문서에 하나만 있어야 한다.
 
 <hr>
+
+## HTML 시맨틱 태그 
+![ ](https://img.shiningcorp.com/data/editor/2408/4fd85877e4401761191d54eccbae022c_1723600095_5723.jpg)
