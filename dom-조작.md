@@ -13,7 +13,7 @@
 
 ## 주요 DOM 선택자 및 사용법
 
-- document.getElementByld()
+- document.getElementById()
   - **ID로 요소를 선택**하며 **하나**의 요소만 반환한다.
 - document.getElementsByClassName()
   - **클래스 이름으로 여러 요소**를 선택한다.
@@ -38,7 +38,7 @@
 ## 요소 생성
 
 - createElement : 요소를 만드는 메서드
-- createTextNode : 거북이를 만드는 방법
+- createTextNode : 새로운 텍스트 노드를 생성한다.
 
 ## 요소 속성
 
